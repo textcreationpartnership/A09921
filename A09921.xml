@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prayse and commendacion of suche as sought comenwealthes and to the co[n]trary, the ende and discommendacion of such as sought priuate welthes. Gathered both out of the Scripture and phylozophers.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A09921</idno><idno type="EEBO-CITATION">99850271</idno>
+  <idno type="VID">15460</idno>
+  <idno type="EEBO-PROQUEST">2240857019</idno>
+  <idno type="STC">STC 20182</idno>
+  <idno type="STC">ESTC S115052</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99850271e"/>
+            <note>(EEBO-TCP ; phase 2, no. A09921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 140:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prayse and commendacion of suche as sought comenwealthes and to the co[n]trary, the ende and discommendacion of such as sought priuate welthes. Gathered both out of the Scripture and phylozophers.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Anthony Scoloker dwelling in the Sauoy re[n]ts. Wythout Templebarre,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1549?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and address from colophon; publication date conjectured by STC.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wealth --  Early works to 1800.</term>
+               <term type="topical_term">Poverty --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:15460:1"/>
+            <pb facs="tcp:15460:1"/>
+            <pb facs="tcp:15460:2"/>
+            <pb facs="tcp:15460:2"/>
+            <p>The prayse and commendacion of suche as sought comenwelthes: and to the cō<g ref="char:EOLunhyphen"/>trary / the ende and discommendacion of such as sought priuate welthes.</p>
+            <p>Gathered both out of the Scripture and Phy<g ref="char:EOLunhyphen"/>lozophers.</p>
+            <q>
+               <bibl>Prouerb. xxiij.</bibl>
+               <p>Some are ryche though they haue nothyng: Agayne some are pooore ha<g ref="char:EOLhyphen"/>uing great ryches.</p>
+            </q>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:15460:3"/>
+            <head>Epicure in his moral sayīgs.</head>
+            <q>Yf a man hauing goods in aboūdaūce do not repute it suffycyente / he is but a wretche and a catyfe, although he were lorde ouer the whole worlde.</q>
+            <q>Foure thinges follow couetousnes.
+<list>
+                  <item>i. Vnsaciablenes beyng neuer contēted.</item>
+                  <item>ij. Scarcenes of all thinges amongest the comens.</item>
+                  <item>iij. Deceyte among the people.</item>
+                  <item>iiij. And the desyre of worldly honour.</item>
+               </list>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:15460:3"/>
+            <p>
+               <seg rend="decorInit">A</seg>Ristotle in y<seg rend="sup">e</seg> fyrst boke of politykes the .x. chap. sayth, howe that diuers men esteme riches to be nothynge but onelye an heape or quātite of gold and syluer. And it is greate folye eyther to thinke or saye the same: For the phy<g ref="char:EOLhyphen"/>lozopher sayth that and if the course of Golde and siluer were restrayned / that then it shulde no more be proffitable to commenwelthes / neyther yet to those thinges which are nedefull to mannes lyfe. For many times it may chaunce to him which hath aboundaunce of golde and syluer, to perish for lacke of foode. Wherfore it is great foly to nominate or name those thynges to be ryches w<seg rend="sup">c</seg> a man possessith in great aboundaunce, and yet neuertheles perissheth for lacke of foode: As Duyde recyteth in his .xi. booke / howe that king Mydas was so stricken in couetousnes / that his desyre could not be satisfyed with golde: wher uppō he made his prayer to the Gods / that al things which he touched / might
+<pb facs="tcp:15460:4"/>be Golde: whiche he obteyned. So that all thinges which he put in hys mouth, was Golde: and thus dyed for lacke of sustenaunce. The Phylozopher in the same booke sayth / that ryches obteyned by an vnsatiable desyre, is infinite: And howe that the desyre of suche hath no ende of theyr vnsaciable couetousnes / thorow the which they lyue after their sensuall pleasure and delyte. And ther<g ref="char:EOLhyphen"/>fore the scripture sayth: Quod insatia<g ref="char:EOLhyphen"/>bilis Cupido oculus: and furthermore / quod auarus non implebitur pecunia. Wheruppon Beda in an homilye / and Ouide in libro faustorum / sayth: that couetousnes is lyke vnto the dropsye.
+<note place="margin">Lib. i cap. xxvij.</note> And Vincent in his mirrour historiall sayth: that couetousnes is a right cruel pestilēce / and causeth all those to suffre whiche receyue hir. For she hath neuer sufficient. Ecclesiasticus sayth: There is nothing worse then a couetous man.</p>
+            <p>What aduauncest thou the / sayth he / o thou asshes? There is not a more wic<g ref="char:EOLunhyphen"/>ked thing thē to loue money. And why? Such a one (sayth he) hath his soule to
+<pb facs="tcp:15460:4"/>sell. Here is an harde saying: And yet we see in these dayes men so geuen to vnsatiable couetousnes / in procuringe their owne priuate welthes / that the cō<g ref="char:EOLhyphen"/>men welth decayeth / and no mā loketh to it. We are commaunded to loue God aboue all / and our neyghbour as oure selues. But how do we loue our neygh<g ref="char:EOLunhyphen"/>bour as our selues when we put them out of their houses and say their goods in the stretes? Gods lawe sayth. Thou shalt not vniustly desyre y<seg rend="sup">e</seg> neighbours house. Wherfore he vniustlye desireth his neyghbours house / which for lucre putteth out one ād putteth in an other. For what is he / hauinge a house / be he rych or poore / that wolde be put out of his house? Sainct Iohn sayth:
+<note place="margin">1. <hi>Iohn.</hi> 4</note> If a man sayt I loue God / and yet hate hys brother / he is a lyer. Peraduēture some wyll say / though he put his brother out of hys house / yet he hateth hym not: though his pore brother hath not wher with to obteyne an other. Saynct Ia<g ref="char:EOLhyphen"/>mes in the second chapt. of his Epistle sayth: harkē my dere beloued brethern:
+<pb facs="tcp:15460:5"/>Hath not God chosē the poore of this woorlde / which are ryche in fayth, and are heyres of the kingdome whiche he promised to them that loue him? But ye haue despised the pore. Are not the rich they which oppresse you, ād they which drawe you before iudges? Do not they speake euell of that good name / after w<seg rend="sup">c</seg> ye be named? I pray you / who in these dayes are such oppressours / such grasy<g ref="char:EOLhyphen"/>ers / such shepheardes / such inhauncers of rentes / such takers of incommes / as are those whiche professe the Gospell? What is this but to speake euell of that good name of Christ / after whome we be named Christians. He sayth more / yf ye fulfyll the Ryall lawe accordinge vnto the scripture which sayth. Thou shalte loue thy neyghboure as thy selfe: Ye do well. Wolde to God that in these dayes mē wolde be as carefull for their pore brethern, as they are for their dog<g ref="char:EOLunhyphen"/>ges. We see the Citie of London can of the Chambers cost prouyde a house to kepe .xx. or .xxx. dogges in / and to gyue r. pounde by yere for one to kepe them:
+<pb facs="tcp:15460:5"/>but they wyll not allow .x. pens by yere out of the Thambre, towardes the fyn<g ref="char:EOLhyphen"/>ding of the poore: But y<seg rend="sup">e</seg> the poore arti<g ref="char:EOLunhyphen"/>ficers must beare parte and parte lyke / to the moost extremitie that can be in<g ref="char:EOLhyphen"/>uented / as lately apered by the commen counsell. By heare saye / there is a good some yerely commīg to the chambre of London / and no man knoweth how it is spēt but the gray clokes: yet can their not be a pore sprīg fet two flyght shorte out of the Citie / but the poore commēs must heare parte therof. I trust within this .xx. yeres men will make sute to be Mayers of the Citie. To these good gospellers. S. Iames sayth: What a<g ref="char:EOLhyphen"/>uayleth it my brethern / though a man saye he hath fayth / when he hath no de<g ref="char:EOLhyphen"/>des? Can such a fayth saue him (sayth he)? If a brother or syster be naked or destitute of dayly foode, and one of you saye vnto them / departe in peace / God sende you warmenes and foode / not w<seg rend="sup">t</seg> standing ye geue them not those things whiche are nedefull to the body / what helpeth it? Euen so / fayth / if it haue no
+<pb facs="tcp:15460:6"/>dedes is deade in it selfe. There is a faute: and by the Emperour Marcus Aurelius sayinge / I coniecture it to be in the hygher powers. For he sayth: If the hygher powers daunce / all daunce: And if they hunte / all hunte. If they be couetous all are couetous with more: but this suffiseth. By lyke in these day<g ref="char:EOLhyphen"/>es the hygher Powers studye priuate welthes / for all men study the same / &amp; no man passeth vpō the commenwelth. Aristotle geueth counsell / that vnsacia<g ref="char:EOLhyphen"/>ble couetous men shulde not beare rule in commenwelthes / and declareth fur<g ref="char:EOLhyphen"/>cher how such are knowē by their wor<g ref="char:EOLhyphen"/>kes. For they (sayth he) are geuen to en<g ref="char:EOLhyphen"/>ryche them and theyrs, and howe that such nether loue the commen welth ney ther yet good pollicie. The philozopher in the thirde boke the .vij. chapter of pol<g ref="char:EOLunhyphen"/>litiques sayth: All pollicies eyther coū<g ref="char:EOLunhyphen"/>sels whiche preferre and set furth thin<g ref="char:EOLhyphen"/>ges proffitable to the commēwelth / are ryght taythfull and iust: But those (sayth he) which preferre and set furth thynges proffitable to the gouernours
+<pb facs="tcp:15460:6"/>and rulers / are wicked corrupt / and the breaking of good pollicie. In the com<g ref="char:EOLhyphen"/>pendyall history of politikes is writtē / howe that such as couet dominion / not regardīg worldly fame and prayse, passe euen the brute beastes in vyces / and spe<g ref="char:EOLunhyphen"/>cially in two poyntes / to witte / in leche<g ref="char:EOLhyphen"/>ry and crueltie: ād that dyuers Romay<g ref="char:EOLunhyphen"/>nes were of this sorte, which passed not on the Fame of the woorlde / for those dedes which they did, neyther yet cared what was surmised on them / in cōmit<g ref="char:EOLhyphen"/>tīg those euels which they did although they did many / thorow their vnsaciable couetousnes to reygne and beare rule. We haue now no samuels / which wyll aske the cōmens / saying: haue I taken any mās oxe or asse / if I haue done any man vyolence or wronge / if I haue op<g ref="char:EOLhyphen"/>pressed anye man? yf I haue receaued a gyft of any mans hande and kept it se<g ref="char:EOLhyphen"/>cret / I wyll restore it you agayne. And the people sayd / no. We haue none of these / neyther yet Danyels, nor Eleseus<g ref="char:EOLunhyphen"/>ses to deny giftes. But we haue plentie of Gehasis in all places to receaue: god
+<pb facs="tcp:15460:7"/>defende them from the leprosye. For as uē as they are blynded in pride thorow couetousnes: euen so are they blynded from all godly knowledge. Quene Hes<g ref="char:EOLhyphen"/>ter / after she was promoted / was noe lyke vnto these: for as apeareth in the seconde boke of Hester in the .xv. chapt. She sayde helpe me desolate woman w<seg rend="sup">c</seg> haue no defence nor helpe but onelye thou lorde / thou knowest all thinges / y<seg rend="sup">u</seg> wottest that I loue not the glorye and worshyp of the vnrighteous, and that I hate and abhorre the bedde of the vn<g ref="char:EOLunhyphen"/>circumcised / and of all heathen. Thou knowest and wottest my necessitie that I hate the token of my pre<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>miencie &amp; worshp / which I beare vpō my heade / what time as I must shewe my selfe &amp; be sene: and that I abhorre it as an vn<g ref="char:EOLhyphen"/>cleane cloth. And y<seg rend="sup">t</seg> I were it not whā I am quiet alone by my selfe. O wea<g ref="char:EOLhyphen"/>ker vessell. Where may one in these day<g ref="char:EOLunhyphen"/>es finde a man that hateth his preemi<g ref="char:EOLhyphen"/>encie. No scant shal a man fynde a bys shop which wylleaue the preemience of his shauen crowne / which as sainct Ie<g ref="char:EOLunhyphen"/>rome
+<pb facs="tcp:15460:7"/>vpon the .xliiij. of Ezechiell sayth: They receaued from Isys and Sera<g ref="char:EOLhyphen"/>pies. Salomō sayth. Prouer xx. that a mouth of vnderstāding is more worth thē golde / many precious stones &amp; cost<g ref="char:EOLhyphen"/>sy iewels. Hester had a much of vndstā<g ref="char:EOLhyphen"/>dīg / &amp; our bisshops haue costly mytets / crosse staues &amp; gloues, set after y<seg rend="sup">e</seg> letter w<seg rend="sup">t</seg> costly pearles &amp; stones. The spirite killeth (say they) but y<seg rend="sup">e</seg> letter quickeneth as apeareth by their playing garmētes. As sayth. S. Bernard vppon the Can<g ref="char:EOLunhyphen"/>ticles. He that readeth the scriptures &amp; the aunciēt wryters / shall perceaue our bisshops both in workes &amp; apparell as lyke vnto Christ &amp; his apostles / as is y<seg rend="sup">e</seg> wolfe &amp; the lambe. It is tolde y<seg rend="sup">t</seg> a mon<g ref="char:EOLunhyphen"/>ke of great fame in Italy, being named Robert of licio: many yeres sēce / shulde haue preched before y<seg rend="sup">e</seg> pope &amp; his cardy nallen. Who / being in the pulpit and se<g ref="char:EOLhyphen"/>yng the pope and his cardinalles com<g ref="char:EOLhyphen"/>ming to heare hys sermon in pompe &amp; pryde more then Royall / sayde: Fye vp<g ref="char:EOLunhyphen"/>pon. S. Peter &amp; fye vppon. S. Paule. And with these wordes went out of y<seg rend="sup">e</seg>
+               <pb facs="tcp:15460:8"/>pulpyt. And when he was demaunded why he dyd say so? He answered, sayīg: Haue I not good occasion? Were they not very fooles and vnlyke to you? for they were but miserable &amp; power wret<g ref="char:EOLunhyphen"/>ches / and went naked / barefoote / dying for hunger / into heauen: and could not fynde the meanes to ryde on horses ne<g ref="char:EOLhyphen"/>ther yet on moyles / richly apparelled w<seg rend="sup">t</seg> so great tryumph as ye doo? Wherfore the pope nor hys cardynalles / neyther yet his shauelinges in this Realme / no nor yet vnsaciable couetous men which seke priuate welthes to the decay of the cōmen weale / vnles they repēt / may not entre into heauen, although they beare the name of Christiās, neyther yet may they be cōpared to the famous gentyles which sought fame in this woorlde / in spending their goods and aduenturing their parsones for the comen weale / of w<seg rend="sup">c</seg> sorte Marcus Aurelius was one: who of custume in the Cytie or towne where he was resident wolde in the e<g ref="char:EOLhyphen"/>uening go with .xij. pages thorowe the streates, harkening and inquering if a<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:15460:8"/>of hys officers or retynue had done any man wrong: And in case yea: furth with redressed the same / punisshing the offenders. Here was a noble acte of an Emperour parteynīg to a comē welth. Lorde / if in this Reame the kinges ma<g ref="char:EOLunhyphen"/>iestie wold appoynt but a faythfull coū<g ref="char:EOLunhyphen"/>seller to go thorow this Realme / thinke ye there wolde be no complayntes? yes, yes / to many / God amēd it. I dare not wryte for offendinge: But this dare I wryte / that, if dyuers officers within this realme shulde shewe their accoun<g ref="char:EOLhyphen"/>tes frō yere to yere how they haue got<g ref="char:EOLhyphen"/>ten their goods, as marchauntes maye do, it shulde be founde that it were no maruayle though the Kinges maiestie lacked money, and his pore comons cō<g ref="char:EOLunhyphen"/>playne. Salomon Prouer .xiiij. sayth. The increase and prosperite of the com<g ref="char:EOLunhyphen"/>mens, is the kinges honour: But the de<g ref="char:EOLunhyphen"/>caye of the people / is the confusion of y<seg rend="sup">e</seg> prince. Thys coūsell foūde Rehobohā true. Also next vnto Marcus Aureli<g ref="char:EOLhyphen"/>us / I fynde worthy of fame / Marcus Curius to whome the Ambassadours
+<pb facs="tcp:15460:9"/>of the Samuytes / at this present calles Bonynent / brought a weyght of golde for a present or gift / desyring him to re<g ref="char:EOLhyphen"/>ceaue it &amp; to do his will therwith: But he / whome they founde syttinge by the tyre on a rusticall benche sething rapes for hys supper / w<seg rend="sup">c</seg> he dyd eate in trene diss<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, beganne to laughe, sayīg to thē: ye are y<seg rend="sup">e</seg> min<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sters of a folish and vayne Ambassadourship. Returne agayn and tell the Samuites that Marcus Curi<g ref="char:EOLhyphen"/>us had rather to be lorde and master o<g ref="char:EOLhyphen"/>uer rychesse / thē to be made rych. Ther<g ref="char:EOLunhyphen"/>fore beare agayne youre giftes / the w<seg rend="sup">c</seg> as they are precious, euen so were inuen<g ref="char:EOLunhyphen"/>ted for the euell of men: and thinke not that I may be vanquisshed in batayle<g ref="char:EOLhyphen"/>neyther also corrupted by golde nor syl<g ref="char:EOLhyphen"/>ner. This Marcus / after that he had chaced kīg Marcus out of Italy / wold take nothing of the spoyle / but enriched his Armye and citie of Rome with the same. And reputed that Citezen lytle worth to the comēwelth, that was not content with those thinges that suffy<g ref="char:EOLhyphen"/>sed other. Also Cneus Marcus, who
+<pb facs="tcp:15460:9"/>was of the royall bloude and kinred of king Ancus / vnto whome / after that he had done the Actes of a valyaunt and worthy knight / were offced such presē<g ref="char:EOLhyphen"/>tes and gyftes / as of custume were ge<g ref="char:EOLhyphen"/>uen to valyaunt and worthy knightes. To wytte .c. Iourneys .x.
+<note place="margin">
+                  <hi>Valerius maximus li.</hi> 4. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>c.</hi> 3.</note> prisoners at his choyse .x. horse well apparelled for the warres. C. oxen and as much sylv{er}as he coulde beare yet wolde he take no<g ref="char:EOLhyphen"/>thinge / but one prisoner / whiche had be<g ref="char:EOLunhyphen"/>en his hoste / and a horse to beare him in the warres Frō these mēnes scole cāme fabricius / whom his time was in great auctoritie and in high estimacion amōg the Romaynes: but in substaunce / was lyke vnto the porest. And for this cause the Samuytes / ouer whome he was made gouernour ād ruler, thought his estate very simple and his trayne verye small. Wheruppon they sent him great gyftes and sōmes of syluer,
+<note place="margin">
+                  <hi>Agelius. li.</hi> 1. <hi>cap.</hi> 4</note> which they presented him: but whē Fabricius had hearde them he paused a litle, and after layde his handes to his eares / then to his eyes / after to his nose and so to his
+<pb facs="tcp:15460:10"/>mouth / and last on his belly / and ther<g ref="char:EOLhyphen"/>with answered and sayde vnto them: So longe as I maye belorde and haue power ouer these membres whiche I haue touched. I shall haue lacke of no<g ref="char:EOLhyphen"/>thing: wherefore beare agayn your mo<g ref="char:EOLunhyphen"/>neye and geue it vnto such as ye knowe to haue nede thereof. Also / Quintus Tubero being Consull of Rome / they of Erolle sent him by their Ambassa<g ref="char:EOLhyphen"/>dours / lyluer vessell being of a greate weyght and of agoodlye and curyous workemanship / and of highe estimaci<g ref="char:EOLhyphen"/>on. Forcerteyne men of Erolle whiche alytle to fore had bene to see him and to do him homage, reported that they had found him at his table / eating in earthē vessell: But when Quintus Tubero sawe the vessell / he commaunded them to returne and to beare agayne their pre<g ref="char:EOLunhyphen"/>sent / saying vnto them: Do not thinke the trayne which I kepe to be of pouer<g ref="char:EOLunhyphen"/>tie eyther of necessicie, but of vertue and abstinēcie. These thīges remēbred kīg Agathocles / whē he was come vnto y<seg rend="sup">e</seg> crowne, who / although he was Kynge
+<pb facs="tcp:15460:10"/>wolde daylye be serued at hys table in earthen vessell / to declare that he was not ashamed to be knowē to be y<seg rend="sup">e</seg> sōne of a potter: And therby reduced to his memory / his first estate and felicitie w<seg rend="sup">t</seg> he was comen vnto, shuld not abuse hī, nether yet cause him to forget his first estate. I coulde bringe in plentie of like gouernours ād rulers which abhorred priuate welthes / but it wold be tedious to the reader. And therfore I trust this to be sufficient wherby vnsaciable coue<g ref="char:EOLhyphen"/>tous men may know in what state they stande in. Forneyther may such loke w<seg rend="sup">t</seg> out repentaūce, to be of Christes flocke: nor yet to obteyne any worldly fame w<seg rend="sup">t</seg> the famous Gentiles. Now / what shal become of such is written in the compē dyall historye of polytikes in the .xxvi. chapt. as followeth. Tell me / sayth he / I pray y<seg rend="sup">e</seg>: where are those becom now / which haue so loued the worlde, and ta<g ref="char:EOLhyphen"/>ken paynes day and night / leauing their contreyes / wiues and chyldren / trauay linge by sea and by lande / and in innu<g ref="char:EOLhyphen"/>merable perylles to obteyne woorldlye
+<pb facs="tcp:15460:11"/>fame and to prayse their prince ād sorde in obteynīg honour and riches? where are they nowe? Yea or what haue they wonne in seruing the worlde / and in ta<g ref="char:EOLunhyphen"/>king so great paynes for the same? In the ende, the worlde hath played them y<seg rend="sup">e</seg> part of a fayned cōpanion, as he hath done / and doth to all his louers and ser<g ref="char:EOLunhyphen"/>uauntes: yea, and left thē in their nede. And as touching honoure / ryches and auctoritie which he gaue them / doth he not / when the ende commeth / take all a<g ref="char:EOLhyphen"/>gayne from them? Yea in so much that sometime as touching carnall frendes hath he promised them a windīg shete to beare their caron carcas in: And they ones dead / the seruice done and the bel<g ref="char:EOLhyphen"/>les rōge, what remayneth of thē more then doth in the iugglers boxe? Blowe / and ye shall fynde nothinge. Perijt me<g ref="char:EOLhyphen"/>moria eorum cum sonitu. Thus sayth Dauid: Ther remayneth nothīg of thē but wormes and asshes: yet were they men as we are. They haue eaten and dronken as we do. There haue bene kin<g ref="char:EOLunhyphen"/>ges / Dukes and Earles and great Ru<g ref="char:EOLunhyphen"/>lers
+<pb facs="tcp:15460:11"/>peraduenture greater then any be now: yea, and they haue taken their de<g ref="char:EOLhyphen"/>lyte and pleasure in thys woorlde / tyll they haue forgotten God / and trāsgres<g ref="char:EOLhyphen"/>sed his commaundementes / paraduen<g ref="char:EOLhyphen"/>ture euen in the poynt of death / and are so fallen in the depe of hell / where their soules remayne and their carcas to the wormes / their abiding the resurrectiō of their bodye: So that at the daye of Iudgement, both bodye and soule shall euer after be tormented together. So y<seg rend="sup">t</seg>, as they were companions together in welth and delyciousnes / they maye also remayne in paynes and tormētes. Remēbre I pray you what their vayne glorye hath profited them / their shorte Ioy and worldly fame. Their power / their pompe / honour and greate estate. Their multitude of housholde and fa<g ref="char:EOLhyphen"/>milye. Their voluptuousnes and de<g ref="char:EOLunhyphen"/>lyte of their bodies. Their lycorish mor<g ref="char:EOLunhyphen"/>sels and fleshly carnaltie. Their good<g ref="char:EOLhyphen"/>lye houses and sumptuous palayces. Their Chambres hanged / their beds apparelled. Their vnsaciable couetous<g ref="char:EOLunhyphen"/>nes
+<pb facs="tcp:15460:12"/>and rjches / paraduenture euell got<g ref="char:EOLunhyphen"/>ten. Where is their pride, their will and arrogancy? where is now their smilīg playing and daunsing? where is their singing their minstrels with their claris<g ref="char:EOLunhyphen"/>ons and trūpets wherin they so much delyded and reioyced? Yea, and where are their greate traynes? Heare what the scripture sayth. Factum est vt mo<g ref="char:EOLhyphen"/>riretur &amp; diues, et sepultus est in īferno Which is to saye: The time came that the glotton dyed and he was buried in the depest of hell / where his mirth is turned into greate calamitie &amp; sorrow he is fallen from a lofte to lesse then no thing / and frō great ease / into great tor<g ref="char:EOLhyphen"/>mentes. And therfore let vs call these thinges to mynde / and feare GOD / and withdraw our mindes from the fo<g ref="char:EOLunhyphen"/>lysh loue of this worlde. And this doīg it may come otherwise to vs, then did to him. Yf not / the paynes which he endureth / shalbe our rewarde. For we are m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and made of the flyme of the earth as he was. We came from the earth / ād to earth we shall returne. And knowe
+<pb facs="tcp:15460:12"/>not howe soone, neyther in what estate death shall take vs. Neyther do we know whether we shall go after death. Therfore if we remembre these thīges we may by the helpe and grace of God, despyse this worlde and obteyne the e<g ref="char:EOLhyphen"/>uerlastinge kingdome / with God. To the which he bring vs / that bought vs on the crosse / thorrowe his precious bloude.</p>
+            <closer>Amen.</closer>
+            <trailer>Finis.</trailer>
+            <epigraph>
+               <bibl>Sapient .ij. a</bibl>
+               <q>
+                  <p>What soeuer happeneth vnto the / re<g ref="char:EOLhyphen"/>ceaue it / suffre in heauines / and be paci<g ref="char:EOLunhyphen"/>ent in chy trouble.</p>
+                  <p>¶ Foure necessary thinges / mete for a man to gouerne hym selfe well in this worlde.</p>
+                  <p>And fyrst.<lb/> To remēbre the time past. To dispose for the tyme present. To prouyde for the tyme to come. And to open thinges doutfull.</p>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:15460:13"/>
+            <p>
+               <hi>IMPRINTED</hi> At London / by Anthony Scoloker Dwelling in the Sauoyrēts. Wythout Tem<g ref="char:EOLunhyphen"/>plebarre.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio ad Imprimendum solum.</p>
+            <pb facs="tcp:15460:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
